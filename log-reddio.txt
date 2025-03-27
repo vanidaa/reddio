@@ -174,3 +174,7 @@ Error:
 [09:26:03 | 26-03-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0xeb61224ef053c97e00d354e47561ca9557635925e8192bab69f0640dfa93fc4b
 [09:29:06 | 26-03-2025] Transfer Task successful for 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90
 [09:29:09 | 26-03-2025] Bridge Task successful for 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90
+[09:20:42 | 27-03-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x304004fc61e2a2ca68570d778b311ada48cc53c561d17bb29719ab0fb0952e5a
+[09:20:50 | 27-03-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x0430eac2b0b1cdeb4a65d02b07f69f17de98a9dc769d902a773147b9e8d52e39
+[09:23:53 | 27-03-2025] Transfer Task successful for 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90
+[09:23:56 | 27-03-2025] Bridge Task successful for 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90
